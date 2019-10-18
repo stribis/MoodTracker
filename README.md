@@ -10,15 +10,15 @@ Track your mood and the environment that affects the mood.
 
 ## Getting Started 🚀
 
-- [ ] This project works with nodeJS so you will need to have that installed
-- [ ] Install all the dependencies using `npm init`
-- [ ] Get API keys from:
+- [x] This project works with nodeJS so you will need to have that installed
+- [x] Install all the dependencies using `npm init`
+- [x] Get API keys from:
   - [WAQI which will be used to get the AQI of the area ](https://api.waqi.info)
   - [Darksky which will be used to get the weather information of the area ](https://api.darksky.net)
-- [ ] Rename `.env_example` to `.env`
+- [x] Rename `.env_example` to `.env`
   - Edit `.env` and put in your API keys in the variables provided. 
   *DO NOT CHANGE THE NAME OF THE VARIABLES*
-- [ ] Start the Server using `npm server.js`
+- [x] Start the Server using `npm server.js`
 
 ## Planed Features 📈
 * Some sort of password-less login system to support different users
